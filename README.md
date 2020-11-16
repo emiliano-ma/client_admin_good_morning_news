@@ -1,6 +1,6 @@
 # The Admin Client
 
-[Visit the deployed site](https://good-morningnews-admin.netlify.app/login)</br>
+[Visit the deployed site](https://goodmorningnews-admin.netlify.app/login)</br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/38456bc3-a77b-46e0-9af3-ac2eacaafe3d/deploy-status)](https://app.netlify.com/sites/good-morningnews-admin/deploys)
 

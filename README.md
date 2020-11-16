@@ -1,5 +1,3 @@
-### The project
-
 # The Admin Client
 
 [Visit the deployed site](https://good-morningnews-admin.netlify.app/login)</br>
